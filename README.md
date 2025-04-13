@@ -44,8 +44,8 @@
 
 
     <div class="container">
-        <p  width="100%" higth="auto" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sam9999999999999&" alt="sam9999999999999" />
-        <img src="https://github-readme-stats.vercel.app/api?username=sam9999999999999&show_icons=true&locale=en" alt="sam9999999999999" /></p>
+        <p align="center" ><img  width="40%" higth="auto"  src="https://github-readme-streak-stats.herokuapp.com/?user=sam9999999999999&" alt="sam9999999999999" />
+        <img width="40%" higth="auto" src="https://github-readme-stats.vercel.app/api?username=sam9999999999999&show_icons=true&locale=en" alt="sam9999999999999" /></p>
     </div>
 
 
