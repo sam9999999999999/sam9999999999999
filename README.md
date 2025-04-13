@@ -44,7 +44,7 @@
 
 
     <div class="container">
-        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sam9999999999999&" alt="sam9999999999999" />
+        <p  width="25%" higth="auto" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=sam9999999999999&" alt="sam9999999999999" />
         <img src="https://github-readme-stats.vercel.app/api?username=sam9999999999999&show_icons=true&locale=en" alt="sam9999999999999" /></p>
     </div>
 
@@ -52,4 +52,4 @@
 
 <!--<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam9999999999999&" alt="sam9999999999999" /></p> 
   <p><img align="rigth" src="https://github-readme-stats.vercel.app/api?username=sam9999999999999&show_icons=true&locale=en" alt="sam9999999999999" /></p>-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam9999999999999&show_icons=true&locale=en&layout=compact" alt="sam9999999999999" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sam9999999999999&show_icons=true&locale=en&layout=compact" alt="sam9999999999999" /></p>
