@@ -1,4 +1,6 @@
-<h3 align="center">A passionate full stack developer from India</h3>
+## <p align="center">Hi i'm sampath</p>
+
+<h3 align="center">A passionate full stack developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam&label=Profile%20views&color=0e75b6&style=flat" alt="sam" /> </p>
 
@@ -18,7 +20,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **root@2gmail.com**
+- <img width="10px" higth="auto"   src="https://github.com/sam9999999999999/skill-icon-/blob/main/icons/Gmail-Light.svg"> How to reach me **root@2gmail.com**
 
 - 📄 Know about my experiences [bttrs/oi;op](bttrs/oi;op)
 
