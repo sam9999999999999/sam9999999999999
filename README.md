@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **react**
 
-- <img width="10px" higth="auto"   src="https://github.com/sam9999999999999/skill-icon-/blob/main/icons/Gmail-Light.svg"> How to reach me **root@2gmail.com**
+- <img width="12px" higth="auto"   src="https://github.com/sam9999999999999/skill-icon-/blob/main/icons/Gmail-Light.svg"> How to reach me **root@2gmail.com**
 
 - 📄 Know about my experiences [bttrs/oi;op](bttrs/oi;op)
 
