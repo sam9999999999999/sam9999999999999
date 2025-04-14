@@ -45,8 +45,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam9999999999999&show_icons=true&locale=en" alt="sam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam9999999999999&" alt="sam" /></p>
-
 
 <!--sneky game-->
   <picture>
