@@ -17,9 +17,9 @@
 
 - 📝 I regularly write articles on [bttrs/oi;op](bttrs/oi;op)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Python**
 
-- <img width="12px" higth="auto"   src="https://github.com/sam9999999999999/skill-icon-/blob/main/icons/Gmail-Light.svg"> How to reach me **root@2gmail.com**
+- <img width="12px" higth="auto"   src="https://github.com/sam9999999999999/skill-icon-/blob/main/icons/Gmail-Light.svg"> How to reach me **kali.nux166@gmail.com**
 
 - 📄 Know about my experiences [bttrs/oi;op](bttrs/oi;op)
 
